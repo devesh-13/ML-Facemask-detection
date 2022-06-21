@@ -1,2 +1,5 @@
 # ML-Facemask-detection
 ML program for face mask detection using python libraries - sklearn, matplotlib
+I have used haar feature algorithm- CV.2 - numpy for creating arrays of images and using using voila jones algorithm
+created data with_mask and without_mask
+used sklearn Svm and model_selection for training and testing data
